@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date:24.09.2025
+## Date:27.09.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,8 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
-
+```
 map.html
 
 <body>
@@ -90,7 +89,6 @@ bakery.html
         <p>Here’s info I found about Paary (or Paari) Sweets & Bakery in Arani, Tamil Nadu. If this is the same as “Paaru Sweet Shop” you meant, it seems likely. If not, I can try to dig up the exact one you had in mind.
 
 
----
 
 Basic Details
 
@@ -104,7 +102,7 @@ Opening Hours: From around 5:00 AM to about 9:30 PM daily.
 
 
 
----
+
 
 What They Offer / What They're Known For
 
@@ -118,7 +116,7 @@ Also cakes for special occasions (birthdays etc.).
 
 
 
----
+
 
 Pros / What Locals Like
 
@@ -130,7 +128,6 @@ Good service generally.
 
 
 
----
 
 Cons / Complaints
 
@@ -160,7 +157,7 @@ bus stand.html
         <p>Here’s what I found out about Arani Old Bus Stand (Arni, Tamil Nadu):
 
 
----
+
 
 theatre.html
 
@@ -176,7 +173,7 @@ theatre.html
         <p>Here’s what I found out about Rajeshwari / Rajeswari / Shri Rajeswari Theatre / Cinema in Arani (Arni), Tamil Nadu:
 
 
----
+
 
 Basic Details
 
@@ -188,7 +185,7 @@ Other contact info listed: Phone number +91-94821 49419.
 
 
 
----
+
 
 Facilities & Features
 
@@ -202,7 +199,6 @@ Seating: There are special/balcony seats, possibly family-section and normal. So
 
 
 
----
 
 User Feedback — What People Like & What They Complain About
 
@@ -227,7 +223,6 @@ Hygiene issues: Restrooms / toilets sometimes not clean; smell complaints.
 
 
 
----
 
 Pricing & Other Info
 
@@ -239,7 +234,6 @@ It’s one of the more reviewed / prominent theatres in Arani.
 
 
 
----
 
 If you like, I can also pull up the current shows, ticket prices, or seating map for Rajeswari Theatre. Do you want me to fetch that?</p><br><br>
     <center>
@@ -273,7 +267,7 @@ Recent Events: The temple recently celebrated its Maha Kumbabhishegam (consecrat
     </center>
     </body>
 </html>
-
+```
 
 ## OUTPUT
 ![alt text](<Screenshot (24).png>)
